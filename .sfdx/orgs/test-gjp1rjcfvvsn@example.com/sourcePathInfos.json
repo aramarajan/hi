@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app",
+        {
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546758937504,
+            "changeTime": 1546758937504,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546758937505,
+            "changeTime": 1546758937505,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546759155472,
+            "changeTime": 1546759155472,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546758937506,
+            "changeTime": 1546758937506,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork",
+        {
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546759050245,
+            "changeTime": 1546759050245,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546759155473,
+            "changeTime": 1546759155473,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 34,
+            "modifiedTime": 1546759155482,
+            "changeTime": 1546759155482,
+            "contentHash": "10e14deb02a031bd2c10782b938cd85da7c53459"
+        }
+    ],
+    [
+        "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546759155478,
+            "changeTime": 1546759155478,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ]
+]
