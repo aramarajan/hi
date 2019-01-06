@@ -9,7 +9,7 @@
             "changeTime": 1546758937504,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1546758937505,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546759155472,
             "changeTime": 1546759155472,
-            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1546758937506,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1546759050245,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1546759155473,
             "changeTime": 1546759155473,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
         }
     ],
     [
@@ -92,23 +92,23 @@
             "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 60,
-            "modifiedTime": 1546778286284,
-            "changeTime": 1546778286284,
-            "contentHash": "a6843514e91ff68ce163ff014787144fbef180c5"
+            "size": 34,
+            "modifiedTime": 1546759155482,
+            "changeTime": 1546759155482,
+            "contentHash": "10e14deb02a031bd2c10782b938cd85da7c53459"
         }
     ],
     [
         "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\A Ramarajan\\my_sfdx_project\\mywork\\mywork\\force-app\\main\\default\\classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546759155478,
             "changeTime": 1546759155478,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ]
 ]
